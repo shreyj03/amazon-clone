@@ -1,3 +1,3 @@
 export function formatCurrency(princeCents) {
-  return (princeCents/100).toFixed(2);
+  return (Math.round(princeCents)/100).toFixed(2);
 }
