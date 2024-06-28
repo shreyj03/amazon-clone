@@ -1,7 +1,7 @@
 # Amazon-clone
 An interactive amazon.com clone built using HTML, CSS and Javascript.
 
-##Features
+## Features
 - Product Listings: Browse for products.
 - Shopping Cart: Add and remove products from the cart.
 - Order Management: Place orders and view order history.
